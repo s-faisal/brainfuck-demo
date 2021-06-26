@@ -1,7 +1,7 @@
 {
   "name": "brainfuck-demo",
   "version": "1.0.0",
-  "description": "This project is a working demo of brainfuck language.",
+  "description": "This repository will explain what brainfuck language is along with a code snippet.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/s-faisal/brainfuck-demo/issues"
   },
-  "homepage": "https://github.com/s-faisal/brainfuck-demo#readme"
+  "homepage": "https://github.com/s-faisal/brainfuck-demo#readme",
+  "dependencies": {
+    "node-brainfuck": "0.0.2"
+  }
 }
