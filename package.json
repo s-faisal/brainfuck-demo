@@ -2,7 +2,7 @@
   "name": "brainfuck-demo",
   "version": "1.0.0",
   "description": "This repository will explain what brainfuck language is along with a code snippet.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/s-faisal/brainfuck-demo.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "brainfuck"
+  ],
+  "author": "Faisal Shaikh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/s-faisal/brainfuck-demo/issues"
