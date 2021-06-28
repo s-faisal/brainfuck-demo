@@ -1,7 +1,7 @@
 {
   "name": "brainfuck-demo",
   "version": "1.0.0",
-  "description": "This repository will explain what brainfuck language is along with a code snippet.",
+  "description": "This repository will tell you basics of brainfuck language along with a code snippet.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
