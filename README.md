@@ -73,6 +73,6 @@ Simple format
 <<>++[>+++++<-]>+.[-].              <!-- ASCII - 76, Char - 'L' --->
 ```
 
-## Resource
+## Reference
 [Basic guide](http://www.muppetlabs.com/~breadbox/bf/)\
 [Detailed guide](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
