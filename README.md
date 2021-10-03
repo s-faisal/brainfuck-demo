@@ -76,3 +76,13 @@ Simple format
 ## Reference
 [Basic guide](http://www.muppetlabs.com/~breadbox/bf/)\
 [Detailed guide](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+
+## Contribute
+Found a bug, please [create an issue](https://github.com/s-faisal/brainfuck-demo/issues/new)
+
+## How can I support developers?
+
+- Star our GitHub repo 🌟
+- Create pull requests, submit bugs, suggest new features or documentation updates 🔧
+
+We're always happy to receive your feedback!
